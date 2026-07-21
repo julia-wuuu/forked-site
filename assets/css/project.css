@@ -43,6 +43,23 @@ b {
   gap: 20px;
 }
 
+.arrow-icon {
+  height: 0.6em;
+  vertical-align: middle;
+  margin-bottom: 3px;
+  margin-right: 2px;
+}
+
+.back {
+  opacity: 0.5;
+  color: #000;
+  text-decoration: none;
+}
+
+.back:hover {
+  opacity: 1;
+}
+
 .location {
   text-align: center;
   margin-top: 20px;
