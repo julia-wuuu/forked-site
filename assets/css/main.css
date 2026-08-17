@@ -23,10 +23,12 @@ p {
 }
 
 .banner {
-  width: 110%;
-  max-width: 1000px;
+  width: 120%;
+  max-width: 1200px;
   height: auto;
-  margin: -2px auto 0 auto;
+  margin-left: -10%;  /* centers it: (120% - 100%) / 2 = 10% */
+  margin-top: -2px;
+  margin-bottom: 0;
 }
 
 .site-content {
