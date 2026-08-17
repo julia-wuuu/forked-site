@@ -24,7 +24,7 @@ p {
 
 .banner {
   width: 100%;
-  max-width: 775px;
+  max-width: 1000px; /* 775px */
   height: auto;
   margin: -2px auto 0 auto;  /* centers it */
 }
