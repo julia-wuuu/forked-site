@@ -16,6 +16,12 @@ p {
   width: 100%;
 }
 
+.julia-wu {
+  width: 120px !important;
+  height: auto;
+  margin-top: -10px;
+}
+
 .site-content {
   display: flex;
   flex-direction: row-reverse;  /* ← Add this */
