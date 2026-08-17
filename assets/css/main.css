@@ -23,9 +23,10 @@ p {
 }
 
 .banner {
-  width: 1550px
+  width: 100%;
+  max-width: 775px;
   height: auto;
-  margin-top: -2px
+  margin: -2px auto 0 auto;  /* centers it */
 }
 
 .site-content {
